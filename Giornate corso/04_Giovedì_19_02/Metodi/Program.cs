@@ -4,7 +4,7 @@
     {
         Console.WriteLine($"Il risultato della somma tra 10 e 30 è {Somma(10,30)}");
         Console.WriteLine($"Il risultato della somma tra 15 e 180 è {Somma(15,180)}");
-        Console.WriteLine($"Il risultato della somma tra 150 e 1286 è {Somma(11505,11286)}");
+        Console.WriteLine($"Il risultato della somma tra 11505 e 11286 è {Somma(11505,11286)}");
 
         int somma = 0;
         somma = Somma(12, 89);
@@ -15,7 +15,7 @@
         somma = Somma(numero1, numero2);
         Console.WriteLine($"\nLa somma tra {numero1} e {numero2} è {somma}");
 
-        // Saluta("Edoardo");
+        Saluta("Edoardo");
 
         ConfrontaNumero();
     }
@@ -40,11 +40,14 @@
         int y = 10;
         if(x > y)
         {
-            Console.WriteLine($"{x} è maggiore di {y}");
+            int z = 6;
+            Console.WriteLine($"{x} è maggiore di {y} e z è uguale a {z}");
         }
         else
         {
             Console.WriteLine($"{x} è minore di {y}");
         }
+
+        // Console.WriteLine($"{z}");
     }
 }

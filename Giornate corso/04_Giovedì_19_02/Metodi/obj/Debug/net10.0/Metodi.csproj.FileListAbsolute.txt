@@ -1,0 +1,15 @@
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.AssemblyInfoInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.AssemblyInfo.cs
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.csproj.CoreCompileInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.sourcelink.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\bin\Debug\net10.0\Metodi.exe
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\bin\Debug\net10.0\Metodi.deps.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\bin\Debug\net10.0\Metodi.runtimeconfig.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\bin\Debug\net10.0\Metodi.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\bin\Debug\net10.0\Metodi.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\refint\Metodi.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\Metodi.genruntimeconfig.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\04_Giovedì_19_02\Metodi\obj\Debug\net10.0\ref\Metodi.dll

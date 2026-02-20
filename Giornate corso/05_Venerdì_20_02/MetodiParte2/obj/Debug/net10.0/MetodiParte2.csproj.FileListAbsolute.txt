@@ -1,0 +1,15 @@
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\bin\Debug\net10.0\MetodiParte2.exe
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\bin\Debug\net10.0\MetodiParte2.deps.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\bin\Debug\net10.0\MetodiParte2.runtimeconfig.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\bin\Debug\net10.0\MetodiParte2.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\bin\Debug\net10.0\MetodiParte2.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.AssemblyInfoInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.AssemblyInfo.cs
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.csproj.CoreCompileInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.sourcelink.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\refint\MetodiParte2.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\MetodiParte2.genruntimeconfig.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\05_Venerdì_20_02\MetodiParte2\obj\Debug\net10.0\ref\MetodiParte2.dll

@@ -1,0 +1,15 @@
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\bin\Debug\net10.0\ArrayMultidimensionali.exe
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\bin\Debug\net10.0\ArrayMultidimensionali.deps.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\bin\Debug\net10.0\ArrayMultidimensionali.runtimeconfig.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\bin\Debug\net10.0\ArrayMultidimensionali.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\bin\Debug\net10.0\ArrayMultidimensionali.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.AssemblyInfoInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.AssemblyInfo.cs
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.csproj.CoreCompileInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.sourcelink.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\refint\ArrayMultidimensionali.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ArrayMultidimensionali.genruntimeconfig.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\ArrayMultidimensionali\obj\Debug\net10.0\ref\ArrayMultidimensionali.dll

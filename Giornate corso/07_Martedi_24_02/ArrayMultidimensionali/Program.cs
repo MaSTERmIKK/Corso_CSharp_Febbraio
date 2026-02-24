@@ -51,30 +51,30 @@ for(int i = 0; i < nRighe; i++)
 Console.WriteLine($"\nSomma Diagonale 2: {sommaSecondaDiagonale}");
 
 // // Riempimento Matrice con valori casuali interi
-// Console.WriteLine("\n---------------- MATRICE INT RANDOM-----------------------");
-// int[,] randomArray = new int[10, 15];
-// Random random = new Random();
+Console.WriteLine("\n---------------- MATRICE INT RANDOM-----------------------");
+int[,] randomArray = new int[10, 15];
+Random random = new Random();
 
-// for(int i = 0; i < randomArray.GetLength(0); i++)
-// {
-//     for(int j = 0; j < randomArray.GetLength(1); j++)
-//     {
-//         randomArray[i, j] = random.Next(150, 412);
-//         Console.WriteLine($"RandomArray Cella[{i},{j}] = {randomArray[i, j]}");
-//     }
-// }
+for(int i = 0; i < randomArray.GetLength(0); i++)
+{
+    for(int j = 0; j < randomArray.GetLength(1); j++)
+    {
+        randomArray[i, j] = random.Next(150, 412);
+        Console.WriteLine($"RandomArray Cella[{i},{j}] = {randomArray[i, j]}");
+    }
+}
 
 // // Riempimento Matrice con valori casuali double
-// Console.WriteLine("\n---------------- MATRICE DOUBLE RANDOM-----------------------");
-// double[,] randomArrayDouble = new double[10, 15];
+Console.WriteLine("\n---------------- MATRICE DOUBLE RANDOM-----------------------");
+double[,] randomArrayDouble = new double[10, 15];
 
-// int min = 10, max = 100;
+int min = 10, max = 100;
 
-// for(int i = 0; i < randomArrayDouble.GetLength(0); i++)
-// {
-//     for(int j = 0; j < randomArrayDouble.GetLength(1); j++)
-//     {
-//         randomArrayDouble[i, j] = random.NextDouble() * (max - min) + min;
-//         Console.WriteLine($"RandomArrayDouble Cella[{i},{j}] = {randomArrayDouble[i, j]:F2}");
-//     }
-// }
+for(int i = 0; i < randomArrayDouble.GetLength(0); i++)
+{
+    for(int j = 0; j < randomArrayDouble.GetLength(1); j++)
+    {
+        randomArrayDouble[i, j] = random.NextDouble() * (max - min) + min;
+        Console.WriteLine($"RandomArrayDouble Cella[{i},{j}] = {randomArrayDouble[i, j]:F2}");
+    }
+}

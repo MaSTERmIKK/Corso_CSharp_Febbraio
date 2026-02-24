@@ -1,0 +1,15 @@
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\bin\Debug\net10.0\Liste.exe
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\bin\Debug\net10.0\Liste.deps.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\bin\Debug\net10.0\Liste.runtimeconfig.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\bin\Debug\net10.0\Liste.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\bin\Debug\net10.0\Liste.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.AssemblyInfoInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.AssemblyInfo.cs
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.sourcelink.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\refint\Liste.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\Liste.genruntimeconfig.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Liste\obj\Debug\net10.0\ref\Liste.dll

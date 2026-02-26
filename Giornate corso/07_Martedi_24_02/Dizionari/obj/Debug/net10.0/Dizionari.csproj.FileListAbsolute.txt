@@ -1,0 +1,15 @@
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.AssemblyInfoInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.AssemblyInfo.cs
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.csproj.CoreCompileInputs.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.sourcelink.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\bin\Debug\net10.0\Dizionari.exe
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\bin\Debug\net10.0\Dizionari.deps.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\bin\Debug\net10.0\Dizionari.runtimeconfig.json
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\bin\Debug\net10.0\Dizionari.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\bin\Debug\net10.0\Dizionari.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\refint\Dizionari.dll
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.pdb
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\Dizionari.genruntimeconfig.cache
+C:\Users\OreBoia\Desktop\Formazione\CsharpCourses\Corso_CSharp_Febbraio\Giornate corso\07_Martedi_24_02\Dizionari\obj\Debug\net10.0\ref\Dizionari.dll

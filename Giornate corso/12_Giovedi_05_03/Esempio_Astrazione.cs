@@ -5,25 +5,51 @@ class Program
     static void Main()
     {
         // =====================================
-        // CREAZIONE OGGETTI DERIVATI
+        // OGGETTI
         // =====================================
 
         Veicolo auto = new Auto("Fiat");
         Veicolo moto = new Moto("Yamaha");
 
         // =====================================
-        // POLIMORFISMO CON TIPO ASTRATTO
+        // POLIMORFISMO CON CLASSE ASTRATTA
         // =====================================
 
         Veicolo[] veicoli = { auto, moto };
 
+        Console.WriteLine("=== USO CLASSE ASTRATTA ===\n");
+
         foreach (Veicolo v in veicoli)
         {
-            v.MostraMarca();  // metodo concreto della classe base
-            v.Avvia();        // metodo astratto implementato nelle classi figlie
+            v.MostraMarca();
+            v.Avvia();
             Console.WriteLine();
         }
+
+
+        // =====================================
+        // POLIMORFISMO CON INTERFACCIA
+        // =====================================
+
+        Console.WriteLine("=== USO INTERFACCIA ===\n");
+
+        IManutenzione[] servizi = { (Auto)auto, (Moto)moto };
+
+        foreach (IManutenzione servizio in servizi)
+        {
+            servizio.FaiManutenzione();
+        }
     }
+}
+
+
+// =====================================
+// INTERFACCIA
+// =====================================
+
+interface IManutenzione
+{
+    void FaiManutenzione();
 }
 
 
@@ -35,19 +61,18 @@ abstract class Veicolo
 {
     protected string marca;
 
-    // Costruttore
     public Veicolo(string marca)
     {
         this.marca = marca;
     }
 
-    // Metodo concreto (già implementato)
+    // Metodo concreto
     public void MostraMarca()
     {
         Console.WriteLine("Marca: " + marca);
     }
 
-    // Metodo astratto (DEVE essere implementato nelle classi figlie)
+    // Metodo astratto
     public abstract void Avvia();
 }
 
@@ -56,16 +81,21 @@ abstract class Veicolo
 // CLASSE DERIVATA 1
 // =====================================
 
-class Auto : Veicolo
+class Auto : Veicolo, IManutenzione
 {
     public Auto(string marca) : base(marca)
     {
     }
 
-    // Implementazione del metodo astratto
     public override void Avvia()
     {
         Console.WriteLine("L'auto si avvia con la chiave.");
+    }
+
+    // Implementazione interfaccia
+    public void FaiManutenzione()
+    {
+        Console.WriteLine("Manutenzione auto: controllo olio.");
     }
 }
 
@@ -74,15 +104,21 @@ class Auto : Veicolo
 // CLASSE DERIVATA 2
 // =====================================
 
-class Moto : Veicolo
+class Moto : Veicolo, IManutenzione
 {
     public Moto(string marca) : base(marca)
     {
     }
 
-    // Implementazione del metodo astratto
     public override void Avvia()
     {
         Console.WriteLine("La moto si avvia con il pulsante.");
     }
+
+    // Implementazione interfaccia
+    public void FaiManutenzione()
+    {
+        Console.WriteLine("Manutenzione moto: controllo catena.");
+    }
 }
+

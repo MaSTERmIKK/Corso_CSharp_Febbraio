@@ -5,7 +5,7 @@ using System.Collections.Generic;
 // SINGLETON
 // Classe che gestisce le configurazioni di sistema
 // ------------------------------
-public class ConfigurazioneSistema
+public sealed class ConfigurazioneSistema
 {
     // Istanza unica della classe (Singleton)
     private static ConfigurazioneSistema istanza;
@@ -228,3 +228,4 @@ class Program
         } while (scelta != 0);
     }
 }
+
